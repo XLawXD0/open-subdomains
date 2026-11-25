@@ -1,0 +1,10 @@
+{
+  "$schema": "../registry/schema.json",
+  "owner": {
+    "username": "XLawXD0"
+  },
+  "description": "Vercel ownership proof for xlawxd.is-a.ceo.",
+  "records": {
+    "TXT": "vc-domain-verify=xlawxd.is-a.ceo,ce03117e8dfc505954ee"
+  }
+}
